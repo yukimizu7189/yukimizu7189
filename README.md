@@ -14,5 +14,7 @@
 
 ### 情報系
  - コミックつくば！準備会情報システム担当として、主にウェブデザインやDiscord botの開発
+   - https://github.com/comictsukuba/workers_TOTP_Authenticator
+   - https://github.com/comictsukuba/cloudflare_email_forward_discord
  - 個人的な役立つツールの作成
  - 所属学類のライトニングトーク会「re:master-LT」の企画、主催
